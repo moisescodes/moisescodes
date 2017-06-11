@@ -1,2 +1,2 @@
 # moisescodes
-My personal website
+Trying to learn how to set up a personal website and use git at the same time.
